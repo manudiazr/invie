@@ -1,3 +1,4 @@
 # invie
-las mejores guitarras invisibles
-by @platzi al mejor precio solo ´para ti
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
